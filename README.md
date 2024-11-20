@@ -2,5 +2,6 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=7EF73F&width=435&lines=My+name+is+J%C3%BAlio%2C+I'm+37+years+old.;Chemical+analyst.+;+Studying+data+science.)](https://git.io/typing-svg)
 
+https://img.shields.io/badge/Line-00C300?style=for-the-badge&logo=line&logoColor=white
 
  ### Main skills: ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)&nbsp; ![SQL](https://img.shields.io/badge/-SQL-0D1117?style=for-the-badge&logo=sql&labelColor=0D1117)&nbsp;
