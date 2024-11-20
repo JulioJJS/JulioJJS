@@ -1,4 +1,4 @@
-https://capsule-render.vercel.app/api?type=shark&height=300&color=gradient&text=Input%20text&section=footer&fontAlign=39&descAlign=56&descAlignY=54
+SRC= https://capsule-render.vercel.app/api?type=shark&height=300&color=gradient&text=Input%20text&section=footer&fontAlign=39&descAlign=56&descAlignY=54
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=7EF73F&width=435&lines=My+name+is+J%C3%BAlio%2C+I'm+37+years+old.;Chemical+analyst.+;+Studying+data+science.)](https://git.io/typing-svg)
 
